@@ -1,0 +1,11 @@
+[plugin]
+name = "vortex-mod-captcha-browser"
+version = "1.0.0"
+category = "captcha"
+author = "vortex-community"
+description = "Requests Vortex's local human-assisted CAPTCHA WebView"
+license = "GPL-3.0"
+min_vortex_version = "0.3.0"
+repository = "https://github.com/mpiton/vortex-mod-captcha-browser"
+
+[capabilities]
